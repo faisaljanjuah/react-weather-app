@@ -1,4 +1,9 @@
-Run after cloning run "npm i" 
+After cloning run "npm i"
+
+To test on local machine, disable cross-domain policy in your browser
+
+To start application run "npm start"
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
